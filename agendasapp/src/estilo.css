@@ -1,0 +1,26 @@
+/* styles.css */
+.carousel-container {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+ 
+  }
+  
+  .carousel-container .slick-slider {
+    max-width: 700px; /* Establece el ancho máximo del carrusel */
+    width: 100%; /* Ajusta el ancho al 100% del contenedor padre */
+
+  }
+  
+  .carousel-container .slick-slide img {
+    width: 100%; /* Ajusta el ancho de las imágenes al 100% del contenedor */
+    height: 30%; /* Mantiene la relación de aspecto de las imágenes */
+  }
+  Slider{
+    background-color: aliceblue;
+  }
+  

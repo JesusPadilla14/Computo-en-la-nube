@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.nav-item{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.main{
+  padding-top: 30px;
+  background-image:url(https://jesusmanuelpadilla.s3.us-east-2.amazonaws.com/imageneslumina/fondo.png);
+  display: block;
+  background-size: cover;
+}
+
+.icon{
+  background-image: url(https://jesusmanuelpadilla.s3.us-east-2.amazonaws.com/imageneslumina/logo-icon.png);
+  width: 500px;
+  height: 500px;
+}
+
+.Information{
+  margin-left: 60%;
+}
+
+.Information .btn.btn-outline-light{
+  margin-left: 40%;
+}
+
+.main h3, .main button{
+justify-content: center;
+text-align: center;
+}
+
+.footer{
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
