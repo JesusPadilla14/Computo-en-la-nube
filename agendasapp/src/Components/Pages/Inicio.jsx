@@ -38,7 +38,7 @@ const Inicio = () => {
 
         <p>En LUMINA PHOTOFILM, estamos dedicados a capturar momentos a través de la magia de la fotografia y videografia.
         Somos un equipo apasionado de personas dedicados a eventos sociales, asi como a la creación de retratos y fotografia dentro de nuestro estudio fotografico </p>
-        <button class="btn btn-outline-light" >Agendar</button>
+        <button class="btn btn-outline-light" >Agenda cita</button>
       </div>
       <h3>Trabajos recientes</h3>
         <div className="carousel-container">
